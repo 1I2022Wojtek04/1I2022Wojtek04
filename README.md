@@ -8,8 +8,8 @@
 
 - x+2 = x-2
 - (x+2)(x-2)=0
-- x^2=4 = 0
-- x+2 = -4
+- x^2 -4 = 0
+- x^2 = 4
 
 <!---
 1I2022Wojtek04/1I2022Wojtek04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
